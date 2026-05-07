@@ -21,7 +21,7 @@ The Hospital Management System (HMS) is a robust command-line application design
 - **Key Python Libraries:** `mysql-connector-python`, `getpass`, `csv`
 
 ## Project Structure
-- **`/python app dev`**: Contains all Python source code (`main.py`, `crud.py`, `reports.py`, `db_connection.py`).
+- **`/python app dev`**: Contains all Python source code (`main2.py`, `crud.py`, gen reports.py`, `db_connection.py`).
 - **`/sql db setup`**: Contains SQL scripts for schema creation, Stored Procedures, Triggers, UDFs, and security roles.
 
 ## Installation & Usage
